@@ -1,7 +1,18 @@
 ## Tomas Doherty
-
+```
+tomasdoh1@gmail.com
+```
+```
+@tomasdoh
+```
 
 ## Skills
+
+#### Project management
+
+#### Research and data
+
+#### International experience 
 
 ## Education
 
@@ -13,12 +24,13 @@
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript,
 - RSpec, Jasmine
 
 #### City, University of London (September 2017 to July 2018)
 *MA Interactive Journalism*
 - Developed traditional journalistic skills of writing, reporting, newsgathering, interviewing and feature writing at City’s renowned journalism school. Specialised in data analysis and visualisation.
+- 
 - Editor of Interhacktives, an award-winning blog reporting on the latest trends in digital, social and data driven journalism.
 
 #### University of Manchester (September 2009 to July 2013)
